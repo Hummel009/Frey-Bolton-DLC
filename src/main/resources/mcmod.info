@@ -1,0 +1,16 @@
+[
+{
+	"modid" : "fb",
+	"name" : "Frey & Bolton DLC",
+	"version" : "17.1",
+	"credits" : "Hummel009",
+	"authorList": ["Hummel009"],
+	"description": "See ingame mod list!",
+	"logoFile" : "assets/lotr/logo.png",
+	"url" : "",
+	"updateUrl" : "",
+	"parent" : "",
+	"dependencies": [],
+	"screenshots": []
+}
+]

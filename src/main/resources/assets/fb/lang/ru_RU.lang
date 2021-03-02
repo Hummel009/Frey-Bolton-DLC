@@ -1,0 +1,68 @@
+got.biome.frey=Земли Фреев
+got.biome.bolton=Земли Болтонов
+
+got.faction.FREY.achieveRank=Заработайте %s репутации с фракцией Фреи
+got.faction.FREY.achieveRankPledge=Присягните и заработайте %s репутации с фракцией Фреи
+got.faction.FREY.entity=Люди Фреев
+got.faction.FREY.name=Фреи
+got.faction.FREY.rank.commander.f=Генерал Фреев
+got.faction.FREY.rank.commander=Генерал
+got.faction.FREY.rank.friend.f=Друг Фреев
+got.faction.FREY.rank.friend=Друг
+got.faction.FREY.rank.general.f=Лорд Фреев
+got.faction.FREY.rank.general=Лорд
+got.faction.FREY.rank.guest.f=Гость Фреев
+got.faction.FREY.rank.guest=Гость
+got.faction.FREY.rank.kingsguard.f=Капитан Фреев
+got.faction.FREY.rank.kingsguard=Капитан
+got.faction.FREY.rank.leutenant.f=Страж Фреев
+got.faction.FREY.rank.leutenant=Страж
+got.faction.FREY.rank.warrior.f=Воин Фреев
+got.faction.FREY.rank.warrior=Воин
+got.faction.FREY.subtitle=Удел Фреев
+
+got.faction.BOLTON.achieveRank=Заработайте %s репутации с фракцией Болтоны
+got.faction.BOLTON.achieveRankPledge=Присягните и заработайте %s репутации с фракцией Болтоны
+got.faction.BOLTON.entity=Люди Болтонов
+got.faction.BOLTON.name=Болтоны
+got.faction.BOLTON.rank.commander.f=Генерал Болтонов
+got.faction.BOLTON.rank.commander=Генерал
+got.faction.BOLTON.rank.friend.f=Друг Болтонов
+got.faction.BOLTON.rank.friend=Друг
+got.faction.BOLTON.rank.general.f=Лорд Болтонов
+got.faction.BOLTON.rank.general=Лорд
+got.faction.BOLTON.rank.guest.f=Гость Болтонов
+got.faction.BOLTON.rank.guest=Гость
+got.faction.BOLTON.rank.kingsguard.f=Капитан Болтонов
+got.faction.BOLTON.rank.kingsguard=Капитан
+got.faction.BOLTON.rank.leutenant.f=Страж Болтонов
+got.faction.BOLTON.rank.leutenant=Страж
+got.faction.BOLTON.rank.warrior.f=Воин Болтонов
+got.faction.BOLTON.rank.warrior=Воин
+got.faction.BOLTON.subtitle=Удел Болтонов
+
+entity.got.BoltonMan.name=Подданный Болтонов
+entity.got.BoltonLevyman.name=Ополченец Болтонов
+entity.got.BoltonLevymanArcher.name=Ополченец-лучник Болтонов
+entity.got.BoltonSoldier.name=Воин Болтонов
+entity.got.BoltonSoldierArcher.name=Воин-лучник Болтонов
+entity.got.BoltonBannerBearer.name=Знаменосец Болтонов
+entity.got.BoltonCaptain.name=Командир Болтонов
+
+entity.got.FreyMan.name=Подданный Фреев
+entity.got.FreyLevyman.name=Ополченец Фреев
+entity.got.FreyLevymanArcher.name=Ополченец-лучник Фреев
+entity.got.FreySoldier.name=Воин Фреев
+entity.got.FreySoldierArcher.name=Воин-лучник Фреев
+entity.got.FreyBannerBearer.name=Знаменосец Фреев
+entity.got.FreyCaptain.name=Командир Фреев
+
+got.shields.FREY.desc=Награда за достижение 100 очков репутации с данной фракцией
+got.shields.FREY.name=Щит Фреев
+got.shields.BOLTON.desc=Награда за достижение 100 очков репутации с данной фракцией
+got.shields.BOLTON.name=Щит Болтонов
+
+got.capes.FREY.desc=Награда за достижение 100 очков репутации с данной фракцией
+got.capes.FREY.name=Плащ Фреев
+got.capes.BOLTON.desc=Награда за достижение 100 очков репутации с данной фракцией
+got.capes.BOLTON.name=Плащ Болтонов
